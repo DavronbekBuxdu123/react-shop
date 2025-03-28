@@ -1,0 +1,536 @@
+{
+  "orders": [
+    {
+      "id": "f824",
+      "UserId": "c10b",
+      "status": "COMPLETED",
+      "products": [
+        {
+          "title": "S21 5G",
+          "description": "Yangi rusumdagi  Samsung Galaxy S21 5G \nSM-G991U barcha rang va GSM+CDMA ",
+          "price": "500",
+          "category": {
+            "label": "Smartfon",
+            "value": "d33c"
+          },
+          "images": [
+            "https://i.ebayimg.com/images/g/8IcAAOSwf4FkFBTZ/s-l1200.jpg"
+          ],
+          "id": "5e1f",
+          "quantity": "3"
+        },
+        {
+          "id": "261a",
+          "title": "Juice",
+          "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+          "price": "100",
+          "category": {
+            "label": "Ichimliklar",
+            "value": "4ad3"
+          },
+          "images": [
+            "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
+          ],
+          "quantity": "2"
+        }
+      ],
+      "createdAt": "2025-02-28T04:24:26.768Z",
+      "name": "nozim",
+      "phone": "89777878676",
+      "locationName": "bukhara"
+    },
+    {
+      "id": "81a2",
+      "UserId": "87d5",
+      "status": "NEW",
+      "products": [
+        {
+          "title": "S21 5G",
+          "description": "Yangi rusumdagi  Samsung Galaxy S21 5G \nSM-G991U barcha rang va GSM+CDMA ",
+          "price": "500",
+          "category": {
+            "label": "Smartfon",
+            "value": "d33c"
+          },
+          "images": [
+            "https://i.ebayimg.com/images/g/8IcAAOSwf4FkFBTZ/s-l1200.jpg"
+          ],
+          "id": "5e1f",
+          "quantity": "1"
+        }
+      ],
+      "createdAt": "2025-03-01T10:19:30.593Z",
+      "name": "",
+      "phone": "",
+      "locationName": ""
+    },
+    {
+      "id": "f33e",
+      "UserId": "8717",
+      "status": "NEW",
+      "products": [
+        {
+          "title": "Ice Cream",
+          "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+          "price": "50",
+          "category": {
+            "label": "Ichimliklar",
+            "value": "4ad3"
+          },
+          "images": [
+            "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/1.png"
+          ],
+          "id": "2214",
+          "quantity": "4"
+        }
+      ],
+      "createdAt": "2025-03-18T12:05:16.196Z",
+      "name": "Davron",
+      "phone": "55555",
+      "locationName": "Bukhara"
+    },
+    {
+      "id": "f8b6",
+      "UserId": "8717",
+      "status": "NEW",
+      "products": [
+        {
+          "id": "a218",
+          "title": "Kiwi",
+          "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+          "price": "50",
+          "category": {
+            "label": "Mevalar",
+            "value": "acc2"
+          },
+          "images": [
+            "https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png"
+          ],
+          "quantity": "1"
+        }
+      ],
+      "createdAt": "2025-03-18T12:11:33.217Z",
+      "name": "",
+      "phone": "",
+      "locationName": ""
+    },
+    {
+      "id": "fba4",
+      "UserId": "87d5",
+      "status": "NEW",
+      "products": [
+        {
+          "id": "a218",
+          "title": "Kiwi",
+          "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+          "price": "50",
+          "category": {
+            "label": "Mevalar",
+            "value": "acc2"
+          },
+          "images": [
+            "https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png"
+          ],
+          "quantity": "1"
+        }
+      ],
+      "createdAt": "2025-03-25T08:24:04.419Z",
+      "name": "",
+      "phone": "",
+      "locationName": ""
+    },
+    {
+      "id": "71ba",
+      "UserId": "87d5",
+      "status": "NEW",
+      "products": [
+        {
+          "title": "Juice",
+          "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+          "price": "50",
+          "category": {
+            "label": "Ichimliklar",
+            "value": "4ad3"
+          },
+          "images": [
+            "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
+          ],
+          "id": "261a",
+          "quantity": "6"
+        },
+        {
+          "id": "e9eb",
+          "title": "Honey Jar",
+          "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+          "price": "100",
+          "category": {
+            "label": "Mevalar",
+            "value": "acc2"
+          },
+          "images": [
+            "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/1.png"
+          ],
+          "quantity": "1"
+        },
+        {
+          "title": "Green Chili Pepper",
+          "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.,Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+          "price": "10",
+          "category": {
+            "label": "Sabzavotlar",
+            "value": "af62"
+          },
+          "images": [
+            "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/1.png"
+          ],
+          "id": "b195",
+          "quantity": "2"
+        }
+      ],
+      "createdAt": "2025-03-25T11:53:04.469Z",
+      "name": "Dvron",
+      "phone": "05215",
+      "locationName": "d3ugyebxnj"
+    },
+    {
+      "id": "41aa",
+      "UserId": "d0d5",
+      "status": "NEW",
+      "products": [
+        {
+          "title": "Juice",
+          "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+          "price": "50",
+          "category": {
+            "label": "Ichimliklar",
+            "value": "4ad3"
+          },
+          "images": [
+            "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
+          ],
+          "id": "261a",
+          "quantity": "1"
+        }
+      ],
+      "createdAt": "2025-03-28T16:02:50.423Z",
+      "name": "",
+      "phone": "",
+      "locationName": ""
+    }
+  ],
+  "wishlist": [],
+  "categories": [
+    {
+      "id": "d33c",
+      "image": "",
+      "title": "Smartfon"
+    },
+    {
+      "id": "4ad3",
+      "image": "",
+      "title": "Ichimliklar"
+    },
+    {
+      "title": "Aksessuarlar",
+      "id": "3258"
+    },
+    {
+      "id": "f64c",
+      "image": "",
+      "title": "Kitoblar"
+    },
+    {
+      "title": "Mevalar",
+      "id": "acc2"
+    },
+    {
+      "title": "Sabzavotlar",
+      "id": "af62"
+    },
+    {
+      "id": "c14d",
+      "title": "Sport anjomlari"
+    }
+  ],
+  "users": [
+    {
+      "id": "87d5",
+      "name": "Aslonov Davronbek",
+      "email": "davronbek1@gmail.com",
+      "password": "11111",
+      "role": "USER"
+    },
+    {
+      "id": "c10b",
+      "name": "Aslonov Davronbek",
+      "email": "davronbek2@gmail.com",
+      "password": "root123123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "d0d5",
+      "name": "Aslonov Davronbek",
+      "email": "davronbek3@gmail.com",
+      "password": "root123123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "7c3b",
+      "name": "Aslonov",
+      "email": "davronbek4@gmail.com",
+      "password": "123123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "cfca",
+      "name": "Aslonov",
+      "email": "davronbek5@gmail.com",
+      "password": "12345678",
+      "role": "USER"
+    },
+    {
+      "id": "c0a1",
+      "name": "Aslonov",
+      "email": "davronbek8@gmail.com",
+      "password": "12345678",
+      "role": "USER"
+    },
+    {
+      "id": "8717",
+      "name": "Aslonov",
+      "email": "davronaslonov01@gmail.com",
+      "password": "123456",
+      "role": "USER"
+    },
+    {
+      "id": "26d0",
+      "name": "Davronbek",
+      "email": "davronbek123@gmail.com",
+      "password": "root123123",
+      "role": "ADMIN"
+    }
+  ],
+  "products": [
+    {
+      "title": "Smart Watch",
+      "description": "Smart Watch – bu nafaqat vaqtni ko‘rsatadigan gadjet, balki sog‘lig‘ingizni kuzatish, bildirishnomalarni olish va kunlik faoliyatingizni tahlil qilish imkonini beruvchi zamonaviy qurilma",
+      "price": "200",
+      "category": {
+        "label": "Aksessuarlar",
+        "value": "3258"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "a218"
+    },
+    {
+      "title": "Quloqchin",
+      "description": "shbu quloqchinlar yuqori sifatli ovoz, qulay dizayn va uzoq muddatli ishlash imkoniyatini taqdim etadi. Har qanday vaziyatda – ishda, mashg‘ulotda yoki sayohatda – ajoyib audio tajribaga ega bo‘ling!",
+      "price": "50",
+      "category": {
+        "label": "Aksessuarlar",
+        "value": "3258"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1583394838336-acd977736f90?q=80&w=1968&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549206464-82c129240d11?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "261a"
+    },
+    {
+      "title": "Chanel atiri",
+      "description": "Chanel atirlari – bu nafaqat xushbo‘y hid, balki zamonaviylik, nafislik va unutilmas taassurotlar timsoli. Har bir tomchisi sizning shaxsiyatingizni namoyon qiladi va jozibangizni yanada oshiradi.",
+      "price": "100",
+      "category": {
+        "label": "Aksessuarlar",
+        "value": "3258"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1563170351-be82bc888aa4?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1610113233329-1c73b6f7fe98?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "2214"
+    },
+    {
+      "title": "Coca-Cola",
+      "description": "Coca-Cola – bu dunyodagi eng mashhur gazlangan ichimlik bo‘lib, o‘ziga xos ta’mi va tetiklantiruvchi effekti bilan har qanday vaziyatni unutilmas qiladi.",
+      "price": "10",
+      "category": {
+        "label": "Ichimliklar",
+        "value": "4ad3"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1629019416996-712aa1bd87f4?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1667204651371-5d4a65b8b5a9?q=80&w=2032&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "e9eb"
+    },
+    {
+      "title": "Foto Apparat",
+      "description": "Zamonaviy fotoaparat bilan eng chiroyli onlaringizni yuqori sifatda suratga oling va esda qolarli xotiralarga aylantiring. Professional yoki havaskor fotograf bo‘lishingizdan qat’i nazar, bu qurilma siz uchun ajoyib yordamchi bo‘ladi!",
+      "price": "500",
+      "category": {
+        "label": "Aksessuarlar",
+        "value": "3258"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1564466809058-bf4114d55352?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "b195"
+    },
+    {
+      "title": "Nike Oyoq Kiyim",
+      "description": "Oyoq kiyim nafaqat tashqi ko‘rinishning muhim qismi, balki kun davomida qulay yurish va ishonch hissini ta’minlovchi asosiy elementlardan biridir. Sifatli va zamonaviy oyoq kiyim bilan har qadamda o‘ziga xoslikni his qiling!",
+      "price": "100",
+      "category": {
+        "label": "Sport anjomlari",
+        "value": "c14d"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "7515"
+    },
+    {
+      "title": "Ananas",
+      "description": "Ananas – o‘zining shirin va ozgina nordon ta’mi bilan mashhur bo‘lgan tropik meva. Nafaqat mazali, balki vitaminlarga boyligi bilan ham tanilgan. U yangi iste’mol qilish, sharbat tayyorlash va turli taomlarga qo‘shish uchun ajoyib tanlov!",
+      "price": "5",
+      "category": {
+        "label": "Mevalar",
+        "value": "acc2"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1589820296156-2454bb8a6ad1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "41fb"
+    },
+    {
+      "title": "Qulupnay",
+      "description": "Qulupnay – shirin va ozgina nordon ta’mi bilan mashhur bo‘lgan meva bo‘lib, nafaqat mazali, balki vitaminlarga boyligi bilan ham qadrlanadi. Uni yangi iste’mol qilish, shirinliklar tayyorlash va sharbat sifatida ichish uchun ideal tanlov!",
+      "price": "20",
+      "category": {
+        "label": "Mevalar",
+        "value": "acc2"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1518635017498-87f514b751ba?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "b2d1"
+    },
+    {
+      "title": "Atirgul",
+      "description": "Gullar – tabiatning eng go‘zal in’omi bo‘lib, ular har qanday muhitga nafislik va xushbo‘ylik baxsh etadi. Sevgini ifodalash, bayramlarni bezash yoki shunchaki kayfiyatni ko‘tarish uchun ideal tanlov!",
+      "price": "5",
+      "category": {
+        "label": "Aksessuarlar",
+        "value": "3258"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1597826368522-9f4cb5a6ba48?q=80&w=1978&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "78bd"
+    },
+    {
+      "title": "Kofe",
+      "description": "Kofe – tetiklik va ilhom manbai bo‘lib, o‘ziga xos xushbo‘y hidi va boy ta’mi bilan millionlab insonlarni o‘ziga jalb qiladi. Ish kuni yoki dam olish paytida – har doim kayfiyatni ko‘taruvchi ichimlik!",
+      "price": "50",
+      "category": {
+        "label": "Ichimliklar",
+        "value": "4ad3"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1512568400610-62da28bc8a13?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "deeb"
+    },
+    {
+      "title": "Choy",
+      "description": "Choy – qadimiy an’analarga ega bo‘lgan ichimlik bo‘lib, tanani tetiklantiradi va ongni tinchlantiradi. Issiq yoki sovuq holda, har qanday fasl va vaziyatda zavq bilan ichish mumkin.",
+      "price": "50",
+      "category": {
+        "label": "Ichimliklar",
+        "value": "4ad3"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1547825407-2d060104b7f8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "761c"
+    },
+    {
+      "title": "Kitoblar",
+      "description": "Kitob – inson tafakkurining eng buyuk kashfiyotlaridan biri bo‘lib, bilim olish, dunyoqarashni kengaytirish va ruhiy ilhom manbai sifatida xizmat qiladi. Har qanday yosh va qiziqishlarga mos adabiyotlar bilan hayotingizni boyiting!",
+      "price": "20",
+      "category": {
+        "label": "Kitoblar",
+        "value": "f64c"
+      },
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "dbba"
+    },
+    {
+      "title": "Steak",
+      "description": "Steak – sifatli mol go‘shtidan tayyorlanadigan, lazzat va sharbati saqlangan, yuqori darajadagi taom. Har bir bo‘lagi mukammal pishirilgan bo‘lib, go‘shtsevarlar uchun unutilmas ta’m tajribasini taqdim etadi.",
+      "price": "100",
+      "category": {
+        "label": "Sabzavotlar",
+        "value": "af62"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1633436375795-12b3b339712f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "1936"
+    },
+    {
+      "title": "Mebel",
+      "description": "Mebel – har qanday uy yoki ofis muhitini qulay va chiroyli qilish uchun asosiy element. Yuqori sifatli materiallar va zamonaviy dizayn bilan yashash joyingizni o‘zgartiring!",
+      "price": "2000",
+      "category": {
+        "label": "Sport anjomlari",
+        "value": "c14d"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "0a41"
+    },
+    {
+      "title": "Futbolka",
+      "description": "Futbolka – har qanday garderobning ajralmas qismi bo‘lib, qulaylik va zamonaviy uslubni ta’minlaydi. Kundalik kiyim yoki sport uchun ideal tanlov!",
+      "price": "100",
+      "images": [
+        "https://images.unsplash.com/photo-1577212017184-80cc0da11082?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "65d7"
+    },
+    {
+      "title": "Koptok",
+      "description": "Koptok – sport va o‘yinlarning ajralmas qismi bo‘lib, faollikni oshirish va jamoaviy o‘yinlardan zavq olish uchun ideal. Futbol, basketbol, voleybol yoki boshqa sport turlari uchun sifatli va bardoshli modellar!",
+      "price": "50",
+      "category": {
+        "label": "Sport anjomlari",
+        "value": "c14d"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1571354188019-9a5038b88457?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "6d73"
+    },
+    {
+      "title": "Iphone 15 Pro Max",
+      "description": "iPhone 15 Pro Max – bu Apple’ning eng ilg‘or smartfoni bo‘lib, kuchli texnologiya, yuqori sifatli materiallar va innovatsion funksiyalar bilan ajralib turadi. Har bir detal mukammallik uchun yaratilgan!",
+      "price": "2000",
+      "category": {
+        "label": "Smartfon",
+        "value": "d33c"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1695822822491-d92cee704368?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "id": "605f"
+    }
+  ]
+}

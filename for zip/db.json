@@ -1,0 +1,179 @@
+{
+  "cart": [
+    {
+      "id": "98ac",
+      "title": "Iphone 16 Pro",
+      "description": "Operatsion tizim: iOS 18\nEkran diagonali: 6,7\"\nAsosiy kamera: 48 MP, 12 MP\nOld kamera: 12 MP",
+      "price": "2000",
+      "category": {
+        "label": "Smartfon",
+        "value": "d33c"
+      },
+      "images": [
+        "https://cdn.lesnumeriques.com/news/22/226145/8b78a4ae-iphone-16-16-plus-16-pro-et-16-pro-max-les-prix-les-precommandes-et-la-date-de-sortie-des-nouveaux-smartphones-apple.jpg",
+        "https://images.uzum.uz/csh2vjtpq3ghb2qlsvi0/original.jpg",
+        "https://images.uzum.uz/csoq155pq3ggq63cjk5g/original.jpg"
+      ]
+    },
+    {
+      "id": "5e1f",
+      "title": "S21 5G",
+      "description": "Yangi rusumdagi  Samsung Galaxy S21 5G \nSM-G991U barcha rang va GSM+CDMA ",
+      "price": "500",
+      "category": {
+        "label": "Smartfon",
+        "value": "d33c"
+      },
+      "images": [
+        "https://i.ebayimg.com/images/g/8IcAAOSwf4FkFBTZ/s-l1200.jpg"
+      ]
+    },
+    {
+      "id": "18bd",
+      "title": "Coca Cola",
+      "description": "Coca-Cola ichimligi eng mashhurlaridan biridir! Shirin va tetiklantiruvchi, quvnoq gaz ",
+      "price": "5",
+      "category": {
+        "label": "Ichimliklar",
+        "value": "4ad3"
+      },
+      "images": [
+        "https://images.uzum.uz/cia493tenntd8rfc2s40/original.jpg",
+        "https://images.uzum.uz/cia493t6sfhndlbos3jg/original.jpg",
+        "https://images.uzum.uz/cia49475d7kom1tid6k0/original.jpg"
+      ],
+      "quantity": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": "d33c",
+      "image": "",
+      "title": "Smartfon"
+    },
+    {
+      "id": "4ad3",
+      "image": "",
+      "title": "Ichimliklar"
+    },
+    {
+      "id": "3258",
+      "image": "",
+      "title": "Kompyuterlar"
+    },
+    {
+      "id": "f64c",
+      "image": "",
+      "title": "Kitoblar"
+    },
+    {
+      "id": "acc2",
+      "title": "Aksessuarlar"
+    },
+    {
+      "id": "af62",
+      "title": "Maishiy texnika"
+    }
+  ],
+  "users": [
+    {
+      "id": "87d5",
+      "name": "Aslonov Davronbek",
+      "email": "davronbek1@gmail.com",
+      "password": "root123123",
+      "role": "USER"
+    },
+    {
+      "id": "c10b",
+      "name": "Aslonov Davronbek",
+      "email": "davronbek2@gmail.com",
+      "password": "root123123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "d0d5",
+      "name": "Aslonov Davronbek",
+      "email": "davronbek3@gmail.com",
+      "password": "root123123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "7c3b",
+      "name": "Aslonov",
+      "email": "davronbek4@gmail.com",
+      "password": "123123",
+      "role": "ADMIN"
+    }
+  ],
+  "products": [
+    {
+      "title": "Iphone 16 Pro",
+      "description": "Operatsion tizim: iOS 18\nEkran diagonali: 6,7\"\nAsosiy kamera: 48 MP, 12 MP\nOld kamera: 12 MP",
+      "price": "2000",
+      "category": {
+        "label": "Smartfon",
+        "value": "d33c"
+      },
+      "images": [
+        "https://cdn.lesnumeriques.com/news/22/226145/8b78a4ae-iphone-16-16-plus-16-pro-et-16-pro-max-les-prix-les-precommandes-et-la-date-de-sortie-des-nouveaux-smartphones-apple.jpg",
+        "https://images.uzum.uz/csh2vjtpq3ghb2qlsvi0/original.jpg",
+        "https://images.uzum.uz/csoq155pq3ggq63cjk5g/original.jpg"
+      ],
+      "id": "98ac"
+    },
+    {
+      "title": "S21 5G",
+      "description": "Yangi rusumdagi  Samsung Galaxy S21 5G \nSM-G991U barcha rang va GSM+CDMA ",
+      "price": "500",
+      "category": {
+        "label": "Smartfon",
+        "value": "d33c"
+      },
+      "images": [
+        "https://i.ebayimg.com/images/g/8IcAAOSwf4FkFBTZ/s-l1200.jpg"
+      ],
+      "id": "5e1f"
+    },
+    {
+      "title": "Coca Cola",
+      "description": "Coca-Cola ichimligi eng mashhurlaridan biridir! Shirin va tetiklantiruvchi, quvnoq gaz ",
+      "price": "5",
+      "category": {
+        "label": "Ichimliklar",
+        "value": "4ad3"
+      },
+      "images": [
+        "https://images.uzum.uz/cia493tenntd8rfc2s40/original.jpg",
+        "https://images.uzum.uz/cia493t6sfhndlbos3jg/original.jpg",
+        "https://images.uzum.uz/cia49475d7kom1tid6k0/original.jpg"
+      ],
+      "id": "18bd"
+    },
+    {
+      "title": "HP noutbuk",
+      "description": "Celeron n4120 protsessori, 8 GB tezkor xotira va 256 GB SSD bilan ishlaydigan HP noutbuki ",
+      "price": "1000",
+      "category": {
+        "label": "Kompyuterlar",
+        "value": "3258"
+      },
+      "images": [
+        "https://images.uzum.uz/ctqpb8s5j42bjc463thg/original.jpg"
+      ],
+      "id": "b1c3"
+    },
+    {
+      "title": "Pythonda Dasturlash",
+      "description": "Pythonda dasturlash asoslari. Anvar Narzullayev\nAksiya narxida xarid qiling",
+      "price": "10",
+      "category": {
+        "label": "Kitoblar",
+        "value": "f64c"
+      },
+      "images": [
+        "https://images.uzum.uz/cunsnqei4n324lra97t0/original.jpg"
+      ],
+      "id": "3bb7"
+    }
+  ]
+}
