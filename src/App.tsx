@@ -25,11 +25,14 @@ import Orders from "./pages/admin/products/Orders";
 import MyOrders from "./pages/cabinet/Myorders";
 import "react-toastify/dist/ReactToastify.css";
 import { toast, ToastContainer } from "react-toastify";
-
+enum UserRole {
+  ADMIN = "ADMIN",
+  USER = "USER",
+}
 export default function App() {
   const location = useLocation();
   const navigate = useNavigate();
-  const [userRole, setUserRole] = useState();
+  const [userRole, setUserRole] = useState<UserRole | undefined>(undefined);
   const blockedPages = [
     "/admin",
     "/admin/categories",
@@ -57,11 +60,11 @@ export default function App() {
       return;
     }
 
-    // let role = localStorage.getItem("role");
-    // if (role) {
-    //   setUserRole(role);
-    //   return;
-    // }
+    let role = localStorage.getItem("role") as UserRole;
+    if (role) {
+      setUserRole(role);
+      return;
+    }
 
     try {
       const { data } = await Request(`/users/${id}`, "GET");

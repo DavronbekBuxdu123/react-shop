@@ -9,7 +9,7 @@ export default function Signin() {
   const passwordRef = useRef<HTMLInputElement>(null);
   const login = async () => {
     try {
-      if (!emailRef.current.value) {
+      if (!emailRef.current) {
         toast.warning("Email kiriting");
 
         return;

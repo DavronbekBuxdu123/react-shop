@@ -20,6 +20,7 @@ export default function Header() {
   const DeleteUser = (userId: string) => {
     localStorage.removeItem("id");
     navigate("/");
+    console.log(userId);
   };
 
   return (

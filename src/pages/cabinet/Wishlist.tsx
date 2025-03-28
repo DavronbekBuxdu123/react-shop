@@ -27,6 +27,7 @@ export default function Wishlist() {
   useEffect(() => {
     getWishlist();
   }, []);
+  console.log(wishlist);
 
   const getWishlist = async () => {
     try {

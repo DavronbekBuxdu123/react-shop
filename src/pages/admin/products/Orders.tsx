@@ -1,6 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { Request } from "../../../helpers/Request";
 
+interface Product {
+  title: string;
+  quantity: number;
+}
+
 interface Order {
   id: string;
   status: "NEW" | "INPROGRESS" | "COMPLETED";
@@ -9,6 +14,7 @@ interface Order {
   createdAt: string;
   phone: string;
   locationName: string;
+  products?: Product[];
 }
 
 const columns = {
@@ -48,34 +54,36 @@ export default function Orders() {
   };
 
   return (
-    <div className="p-4  grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+    <div className="p-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
       {Object.entries(columns).map(([key, title]) => (
         <div
           key={key}
           onDragOver={(e) => e.preventDefault()}
           onDrop={(e) => onDrop(e, key as Order["status"])}
-          className="w-[300px] bg-gray-100 p-4 rounded-lg min-h-[300px] "
+          className="w-[300px] bg-gray-100 p-4 rounded-lg min-h-[300px]"
         >
-          <h2 className="text-lg font-bold mb-2 ">{title}</h2>
+          <h2 className="text-lg font-bold mb-2">{title}</h2>
           {orders
             .filter((order) => order.status === key)
             .map((order) => (
               <div
+                key={order.id}
                 draggable
                 onDragStart={(e) => onDragStart(e, order.id)}
                 className="bg-white p-3 mb-2 rounded-lg shadow-md cursor-pointer"
               >
                 <p className="font-semibold">Order ID: {order.id}</p>
                 <p>{order.name}</p>
-                <p>UserId : {order.UserId}</p>
+                <p>UserId: {order.UserId}</p>
                 <p>
-                  Title : {order.products[0].title} {order.products[0].quantity}
-                  x
+                  {order.products && order.products.length > 0
+                    ? `Title: ${order.products[0].title} ${order.products[0].quantity}x`
+                    : "No products"}
                 </p>
-                <p>Yaratilgan payt : {order.createdAt}</p>
-                <p>Name : {order.name}</p>
-                <p>Phone : {order.phone}</p>
-                <p>Location : {order.locationName}</p>
+                <p>Yaratilgan payt: {order.createdAt}</p>
+                <p>Name: {order.name}</p>
+                <p>Phone: {order.phone}</p>
+                <p>Location: {order.locationName}</p>
               </div>
             ))}
         </div>

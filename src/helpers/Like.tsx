@@ -15,7 +15,7 @@ export default function useLike() {
 
     try {
       const { data } = await Request(`/wishlist?userId=${userId}`, "GET");
-      setLikedId(data.map((d) => d.productId));
+      setLikedId(data.map((d: any) => d.productId));
     } catch (error) {
       console.error(error);
     }

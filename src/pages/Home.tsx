@@ -24,7 +24,7 @@ export default function Home() {
   const [products, setProducts] = useState<Product[]>([]);
   const [style, setStyle] = useState<"col" | "row">("col");
   const { Like, likedId } = useLike();
-
+  console.log(setStyle);
   useEffect(() => {
     getProducts();
   }, []);
